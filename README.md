@@ -94,4 +94,4 @@ Issues and pull requests are welcome. Please follow the design rules above and d
 
 ## License
 
-[MIT](LICENSE)
+GPL
