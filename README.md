@@ -1,6 +1,6 @@
 # MobiFeed
 
-An image-first social feed ("TikTok, but only for static images") written in **plain PHP + MySQL** and **pure legacy HTML**: no CSS and no JavaScript anywhere. That makes it light enough for old J2ME, Symbian, NetFront and Opera Mini browsers (240x320 screens), while still working on modern phones and desktops.
+An image-first social feed ("TikTok, but only for static images") written in **plain PHP + MySQL** and **pure legacy HTML**: no CSS and no JavaScript anywhere. That makes it light enough for old J2ME, Symbian, NetFront and Opera Mini browsers (240x320 screens), while still working on modern phones and desktops. My hosted MobiFeed website can be found here: http://mobifeed.rf.gd
 
 ## Features
 
