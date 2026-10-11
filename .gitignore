@@ -1,0 +1,23 @@
+# Real configuration: contains the database password and admin passkey. NEVER commit it.
+config.php
+
+# User uploads (keep only the protective files)
+uploads/*
+!uploads/.htaccess
+!uploads/index.html
+!uploads/.gitkeep
+
+# Database dumps / backups
+backup*.sql
+dump*.sql
+*.sql.gz
+
+# Logs, archives, OS and editor files
+*.log
+*.zip
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

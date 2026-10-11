@@ -1,0 +1,8 @@
+# Apache 2.4: block direct requests to include-only files and the SQL dump.
+<FilesMatch "^(config|functions|moderation|header|footer)\.php$">
+    Require all denied
+</FilesMatch>
+<FilesMatch "\.sql$">
+    Require all denied
+</FilesMatch>
+Options -Indexes
